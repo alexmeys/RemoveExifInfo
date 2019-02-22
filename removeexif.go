@@ -1,3 +1,6 @@
+//removeexif.go
+// Alex Meys
+
 package main
 
 import (
