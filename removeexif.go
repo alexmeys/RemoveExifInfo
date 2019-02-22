@@ -13,7 +13,7 @@ import (
 
 func main() {
 
-    // read current directory and subdirectory
+    // read current directory 
     bestanden, err := ioutil.ReadDir(".")
     if err != nil {
         log.Fatal("Failed, %s\n", err)
