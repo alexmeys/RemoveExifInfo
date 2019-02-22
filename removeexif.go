@@ -4,7 +4,7 @@
 package main
 
 import (
-    "os"
+    	"os"
 	"io/ioutil"
 	"log"
 	"image"
